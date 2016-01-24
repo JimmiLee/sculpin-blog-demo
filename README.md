@@ -117,3 +117,4 @@ If you want to make sure that rsync deletes files that you deleted locally on th
 In fact, `publish.sh` is provided to get you started. If you plan on deploying to an
 Amazon S3 bucket, you can use `s3-publish.sh` alongside the `s3cmd` utility (must be
 installed separately).
+# sculpin-blog-demo
